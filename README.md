@@ -86,15 +86,11 @@ This project aims to serve as a foundational computational biology utility, offe
 
 ## 📌 Status
 
-🚀 In Progress — Contributions, suggestions, and pull requests are welcome.
+🚀 done and dusted ‼️‼️💱
 
 ---
 
-## 📄 License
 
-MIT License
-
----
 
 ## 🤝 Acknowledgments
 
