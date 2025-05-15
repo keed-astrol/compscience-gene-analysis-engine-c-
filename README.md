@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&color=008080&center=true&vCenter=true&width=900&lines=🧬+Welcome+to+the+FGene+World;🔬+DNA+Sequence+Analyzer+in+C%2B%2B;🚀+Bioinformatics+%7C+Pattern+Matching+%7C+Sequence+Alignment;🧠+Explore+Genomic+Data+with+Algorithms" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&color=#004EFF&center=true&vCenter=true&width=900&lines=🧬+Welcome+to+the+FGene+World;🔬+DNA+Sequence+Analyzer+in+C%2B%2B;🚀+Bioinformatics+%7C+Pattern+Matching+%7C+Sequence+Alignment;🧠+Explore+Genomic+Data+with+Algorithms" alt="Typing SVG Animation" />
 </p>
 
 # 🧬 DNA Sequence Analyzer
